@@ -1,6 +1,6 @@
 # Instalación
 Simplemente importas el proyecto android y lo sincronizas para que de descargue las librerias para ser usado.Una vez hecho esto
-ya esta listo para ser utilizado.
+ya esta listo para ser usado.
 
 ## Peliculas Studio Ghibli
 Esta es una aplicacion android que muestra un textview de las peliculas de studio ghibli,junto a algunos detalles en su vista detallada.
