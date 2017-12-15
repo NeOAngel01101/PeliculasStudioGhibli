@@ -14,3 +14,5 @@ Toda la informacion se saca de la API : https://ghibliapi.herokuapp.com/#section
 
 2- Una vez dado click en alguna de las peliculas de la lista,saldra una zona detallada que muestra :Titulo ,año,nota,director,productor
 y una breve descripcion(en ingles) ya que la api muestra la informacion en ingles.
+
+!["imagen2"](https://github.com/NeOAngel01101/PeliculasStudioGhibli/blob/master/imagenes/pantalla2.png)
