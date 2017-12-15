@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PeliculasStudioghibli</string>
+    <string name="text_view_filmlist">Peliculas</string>
+</resources>
